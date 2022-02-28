@@ -1,0 +1,16 @@
+segment_sources:
+  PEA8F5C18:
+    type: origin_type
+    relation: translation
+    language: en
+  PA5EC644A:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  f949537c8c0f43c68f6f3a1ed29151ea:
+    PEA8F5C18: 02ae0b79ddf44fff93be126b1392e989
+    PA5EC644A: 922217658fc44b408aca560fdfc8c76a
+  79c2d4518f4145139b23a870bba4d0fc:
+    PEA8F5C18: 4a061a06b34744e98d590b02e4b18d8d
+    PA5EC644A: 20119420071d492e83c6b9dfe8f48d50
